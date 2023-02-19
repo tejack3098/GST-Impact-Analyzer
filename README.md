@@ -1,5 +1,7 @@
 # GST Impact Analyzer: Generating Comparative Invoices for Products
 
+## Project-Based-Learning(PBL), Pillai College of Engineering : Winning Project 
+
 Our project aims to facilitate the understanding of the impact of the Goods and Services Tax (GST) on purchased products through the generation of a comprehensive invoice. By using our Java-based application, users can compare the price and tax changes before and after the implementation of GST on the given product.
 
 Implemented using Java Swings, our application provides an intuitive interface for users to add products to their cart and visualize the invoice. We used PostgreSQL database and JDBC connections to ensure the storage and retrieval of relevant data.
